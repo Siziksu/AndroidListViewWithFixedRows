@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Fixed ListView</string>
+  <string name="action_click">" clicked"</string>
+  <string name="explanation">Every time an item is clicked, the list will change its height from one to ten elements. All the time you will be able to scroll through the items.</string>
+
+</resources>
